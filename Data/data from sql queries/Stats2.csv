@@ -1,0 +1,11 @@
+Netflix_avg_cost_per_month,prime_video_avg_cost_per_month,Disney_avg_cost_per_month,Netflix_total_lib_size,prime_video_total_lib_size,Disney_total_lib_size,Netflix_library_size_per_dollar,prime_video_library_size_per_dollar,Disney_library_size_per_dollar
+8.85,1.76,4,5500,2351,850,621.47,1335.8,212.5
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,Netflix,Prime_video,Disney,,,
+,,Price,8.55,1.76,4,,,
+,,Library_Size,5500,2351,850,,,
+,,Library_size/dollar,621.47,1335.8,212.5,,,

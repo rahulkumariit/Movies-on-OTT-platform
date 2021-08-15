@@ -1,0 +1,6 @@
+Country,Netflix_avg_cost_per_month,prime_video_avg_cost_per_month,Disney_avg_cost_per_month,Netflix_total_lib_size,prime_video_total_lib_size,Disney_total_lib_size,Netflix_library_size_per_dollar,prime_video_library_size_per_dollar,Disney_library_size_per_dollar
+India,8.85,1.76,4,5500,2351,850,621.47,1335.8,212.5
+UK,13.86,7.68,8,5959,11066,880,429.94,1440.89,110
+USA,12.65,12.99,6.99,6022,18246,862,476.05,1404.62,123.32
+Canada,11.49,6.11,7,6162,6130,865,536.29,1003.27,123.57
+Australia,15.49,4.96,6.7,5910,4940,840,381.54,995.97,125.37
